@@ -1,4 +1,10 @@
-## Oi... Eu sou o Gustavo Meyohas
+## Oi! Eu sou o Gustavo Meyohas
+
+<ul>
+  <li>Faço parte da equipe de TI da RJPREV</li>
+  <li>Estudo Front-end -> HTML, CSS, JS e React</li>
+  <li>Me interesso por devops e por isso estudo a parte coisas como linux, shell/bash, fundamentos de redes e cloud</li>
+</ul>
 
 <div style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gumeyohas&show_icons=true&theme=dracula"> 
@@ -16,7 +22,7 @@
   <img align="center" alt="Gust-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gust-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gust-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+  </div>
 <br>
 <div> 
   <a href = "mailto:gumeyohas@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
