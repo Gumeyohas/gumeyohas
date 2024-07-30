@@ -3,7 +3,7 @@
 <ul>
   <li>Faço parte da equipe de TI da RJPREV</li>
   <li>Estudo Front-end -> HTML, CSS, JS e React</li>
-  <li>Me interesso por devops e por isso estudo a parte coisas como linux, shell/bash, fundamentos de redes e cloud</li>
+  <li>Me interesso por devops e Cloud e por isso estudo a parte coisas como linux, shell/bash, fundamentos de redes e faço curso para tirar a certificação AZ900.</li>
 </ul>
 
 <div style="display: inline_block">
