@@ -1,5 +1,3 @@
-## Oi! Eu sou o Gustavo Meyohas
-
 <ul>
   <li>Faço parte da equipe de TI da RJPREV</li>
   <li>Estudo Front-end -> HTML, CSS, JS e React</li>
